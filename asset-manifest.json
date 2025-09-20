@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/eldab3a-app/static/css/main.b1ca6a68.css",
+    "main.js": "/eldab3a-app/static/js/main.7bae56ca.js",
+    "static/media/slider4.jpg": "/eldab3a-app/static/media/slider4.65efdcb8dc8e6b118fe2.jpg",
+    "static/media/slider5.jpg": "/eldab3a-app/static/media/slider5.6e298d72e3b68616427f.jpg",
+    "static/media/slider2.jpg": "/eldab3a-app/static/media/slider2.9c2c1692588f8e3f5bc5.jpg",
+    "static/media/elsas.jpg": "/eldab3a-app/static/media/elsas.74dcf5901db97f99bb5b.jpg",
+    "static/media/ayman.jpg": "/eldab3a-app/static/media/ayman.22bea2e43f05437a042d.jpg",
+    "static/media/elgamal.jpg": "/eldab3a-app/static/media/elgamal.5a064cd5a761b580f832.jpg",
+    "static/media/slider6.jpg": "/eldab3a-app/static/media/slider6.e8c64cff5b9df98f7bc4.jpg",
+    "static/media/abdelmalek.jpg": "/eldab3a-app/static/media/abdelmalek.859b02a61320d061f54e.jpg",
+    "static/media/abdoelradad.jpg": "/eldab3a-app/static/media/abdoelradad.5ba11f7263575756ef77.jpg",
+    "static/media/fc25.jpg": "/eldab3a-app/static/media/fc25.31f1655aa0534df0c96a.jpg",
+    "static/media/slider1.jpg": "/eldab3a-app/static/media/slider1.3e3fc589d9c2ba1b4da5.jpg",
+    "static/media/hegab.jpg": "/eldab3a-app/static/media/hegab.b8c444e555b873019536.jpg",
+    "static/media/gad.jpg": "/eldab3a-app/static/media/gad.e75d9b05a9061e82c1dc.jpg",
+    "static/media/amr khaled.jpg": "/eldab3a-app/static/media/amr khaled.49edc4a8fa96b6365627.jpg",
+    "static/media/slider3.jpg": "/eldab3a-app/static/media/slider3.82cb859678079e20590d.jpg",
+    "static/media/elbadry.jpg": "/eldab3a-app/static/media/elbadry.46f2c5d88b4d734f2bfb.jpg",
+    "static/media/wolfteam.jpg": "/eldab3a-app/static/media/wolfteam.518f9cc6f1515812d531.jpg",
+    "static/media/blood.jpg": "/eldab3a-app/static/media/blood.ac78ccae2e3811e2519a.jpg",
+    "static/media/nofal.jpg": "/eldab3a-app/static/media/nofal.76b626980198b1636dcf.jpg",
+    "static/media/scroo.jpg": "/eldab3a-app/static/media/scroo.2fd4d119ebfc0b5eac65.jpg",
+    "static/media/joker.jpg": "/eldab3a-app/static/media/joker.0527e0934bb6d59a9584.jpg",
+    "static/media/none.jpg": "/eldab3a-app/static/media/none.71d9f1fae48e63bdfd44.jpg",
+    "index.html": "/eldab3a-app/index.html",
+    "main.b1ca6a68.css.map": "/eldab3a-app/static/css/main.b1ca6a68.css.map",
+    "main.7bae56ca.js.map": "/eldab3a-app/static/js/main.7bae56ca.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b1ca6a68.css",
+    "static/js/main.7bae56ca.js"
+  ]
+}
